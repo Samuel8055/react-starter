@@ -18,7 +18,6 @@ function App() {
           Explore ReactJS
         </a>
         <p>ReactJS is awesome!</p>
-        <p>Gotta love it:)</p>
       </header>
     </div>
   );
